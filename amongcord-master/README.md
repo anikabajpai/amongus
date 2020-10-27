@@ -30,6 +30,13 @@
 
 ###### **\*** aliases have not been implemented yet.
 
+## Support server
+
+<div>
+  <a href="https://discord.gg/ENcM67N">
+    <img src="https://invidget.switchblade.xyz/ENcM67N"></img>
+  </a>
+</div>
 
 
 ## Self-hosting
